@@ -5,13 +5,13 @@
     display: grid;
     grid-template-columns: auto 50% auto;
     grid-template-areas: " . demo .";
-    >div(
+    >div{
      grid-area: demo;
      
      ul{
          display: flex;
      }
-    )
+}
 }
 .box{
     height: 200px;
