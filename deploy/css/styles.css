@@ -433,9 +433,12 @@ textarea {
 }
 #demo-container > div {
   grid-area: demo;
+  height: 100vh;
 }
 #demo-container > div ul {
+  height: 100%;
   display: flex;
+  align-self: center;
 }
 
 .box {

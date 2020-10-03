@@ -7,9 +7,12 @@
     grid-template-areas: " . demo .";
     >div{
      grid-area: demo;
+     height: 100vh;
      
      ul{
+         height: 100%;
          display: flex;
+         align-self: center;
      }
 }
 }
