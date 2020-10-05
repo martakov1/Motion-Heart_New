@@ -426,35 +426,11 @@ textarea {
 /* =============
     Demo
 ============= */
-#demo-container {
-  display: grid;
-  grid-template-columns: auto 50% auto;
-  grid-template-areas: " . demo .";
-}
-#demo-container > div {
-  grid-area: demo;
-  height: 100vh;
-}
-#demo-container > div ul {
-  height: 100%;
-  display: flex;
-  align-self: center;
-}
-
 .box {
-  height: 200px;
-  width: 200px;
-  margin-bottom: 300px;
-}
-
-.red-box {
-  background-color: #f13232;
+  height: 300px;
+  width: 300px;
 }
 
 .blue-box {
   background-color: #167cd0;
-}
-
-.orange-box {
-  background-color: #f7a935;
 }

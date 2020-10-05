@@ -82,7 +82,7 @@
 		"tS": 0
 		},
 	"/dev/js/redBox.js": {
-		"bF": 4,
+		"bF": 0,
 		"ft": 64,
 		"ma": 0,
 		"mi": 1,
@@ -289,7 +289,7 @@
 "projectAttributes": {
 	"creationDate": 622956772.63781404,
 	"displayValue": "Motion-Heart_New",
-	"displayValueWasSetByUser": 0,
+	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets-tar",
 	"iconImageWasSetByUser": 0
 	},
